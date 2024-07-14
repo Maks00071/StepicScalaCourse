@@ -1,3 +1,3 @@
-val a = 2
-val b = 3
-a/10
+val input: String = "I like     Scala"
+val str: List[String] = input.split("\\s+").toList
+println(str)
