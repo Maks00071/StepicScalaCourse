@@ -12,5 +12,5 @@ object PowerOfTwo extends App {
     loop(pow)
   }
 
-  println(powerTwo(0))
+  println(powerTwo(10))
 }

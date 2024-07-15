@@ -1,4 +1,4 @@
-package Playground.week1basics
+package Lessons.Week1Basics
 
 object Functions extends App {
   // функции

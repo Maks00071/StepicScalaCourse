@@ -1,4 +1,4 @@
-package Playground.week1basics
+package Lessons.Week1Basics
 
 object TypesValuesVariables extends App {
   val aString: String = "Hello"

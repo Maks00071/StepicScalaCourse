@@ -1,4 +1,4 @@
-package Playground.week1basics
+package Lessons.Week1Basics
 
 object Expressions extends App {
   // Выражения(Expressions) и Инструкции (Instructions)
